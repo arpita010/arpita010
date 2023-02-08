@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 
 <h1 align="center">Hi 👋, I'm ARPITA MITTAL</h1>
 <h3 align="left" maxwidth="50%">Software developer with expert skills in Data Structures ,HTML, CSS, JavaScript, Java and its various frameworks(Hibernate, Spring, Spring boot, Servlets) who is eager to transition into a full-stack developer role.</h3>
