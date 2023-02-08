@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*t2-FA2PGbzaT-byEv_wPxg.png)]
 
 <h1 align="center">Hi 👋, I'm ARPITA MITTAL</h1>
-<h3 align="center">Software developer with expert skills in Data Structures ,HTML, CSS, JavaScript, Java and its various frameworks(Hibernate, Spring, Spring boot, Servlets) who is eager to transition into a full-stack developer role.</h3>
+<h3 align="left">Software developer with expert skills in Data Structures ,HTML, CSS, JavaScript, Java and its various frameworks(Hibernate, Spring, Spring boot, Servlets) who is eager to transition into a full-stack developer role.</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 
