@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*t2-FA2PGbzaT-byEv_wPxg.png)]
+![MasterHead](https://www.datasciencecentral.com/wp-content/uploads/2021/10/8667507462.jpeg)]
 
 <h1 align="center">Hi 👋, I'm ARPITA MITTAL</h1>
 <h3 align="left">Software developer with expert skills in Data Structures ,HTML, CSS, JavaScript, Java and its various frameworks(Hibernate, Spring, Spring boot, Servlets) who is eager to transition into a full-stack developer role.</h3>
