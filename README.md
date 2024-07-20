@@ -7,10 +7,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/arpita001_" target="blank"><img src="https://img.shields.io/twitter/follow/arpita001_?logo=twitter&style=for-the-badge" alt="arpita001_" /></a> </p>
-
 - 🔭 I’m currently working on **Full stack solution for improving your spiritual life**
 
-- 🌱 I’m currently learning **Spring, Spring Boot.**
+- 🌱 I’m currently improving my skills as a **Backend Developer**
 
 - 💬 Ask me about **Java, DSA and Computer Science Fundamentals**
 
