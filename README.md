@@ -2,24 +2,19 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 
 <h1 align="center">Hi 👋, I'm ARPITA MITTAL</h1>
-<h3 align="left">Software developer with expert skills in Data Structures ,HTML, CSS, JavaScript, Java and its various frameworks(Hibernate, Spring, Spring boot, Servlets) who is eager to transition into a full-stack developer role.</h3>
+<h3 align="left">Software Development Engineer with expert skills in Data Structures ,HTML, CSS, JavaScript, Java and its various frameworks(Hibernate, Spring, Spring boot, Servlets) who is eager to transition into a full-stack developer role.</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 
 <p align="left"> <a href="https://twitter.com/arpita001_" target="blank"><img src="https://img.shields.io/twitter/follow/arpita001_?logo=twitter&style=for-the-badge" alt="arpita001_" /></a> </p>
 
-- 🔭 I’m currently working on **Full stack solution for improving your spiritual life**
+- 🔭 I’m currently working on **Providing a 100% online solution for education**
 
-- 🌱 I’m currently improving my skills as a **Backend Developer**
+- 🌱 I’m currently improving my skills as a **Full Stack Developer**
 
-- 💬 Ask me about **Java, DSA and Computer Science Fundamentals**
+- 💬 Ask me about **Full Stack Development, DSA and Computer Science Fundamentals**
 
 - 📫 How to reach me **arpitaag001@gmail.com**
-- 👻 My PortFolio - **https://arpita010.github.io/PortFolio/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DWTC3B_gTj157-eQbeHeSlUS7U9pGps7/view?usp=sharing](https://drive.google.com/file/d/1DWTC3B_gTj157-eQbeHeSlUS7U9pGps7/view?usp=sharing)
-
-- ⚡ Fun fact **I am very optimistic and hard working human being who always try to motivate and help others to achieve their goals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
