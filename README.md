@@ -1,7 +1,10 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 
 <h1 align="center">Hi 👋, I'm ARPITA MITTAL</h1>
-<h3 align="left">Software Development Engineer with expertise in Full Stack Development</h3>
+<h3 align="center">Software Development Engineer with expertise in Full Stack Development</h3>
+
+---
+
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 - 💼 Currently working as a Software Development Engineer at one of India’s leading technology-driven firms.
