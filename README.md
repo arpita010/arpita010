@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm ARPITA MITTAL</h1>
 <h3 align="left">Software Development Engineer with expertise in Full Stack Development</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
-- 💼 Currently working as a Software Development Engineer at one of India’s leading technology-driven firms. In my current role, I am solving large-scale, high-impact engineering challenges, improving system reliability, and driving innovations that serve millions of customers. This opportunity has allowed me to work on some of the most complex problems in the industry while continuously growing as an engineer.
-- 🤖 I’m currently working on an **AI-driven project** to bring innovation into software solutions  
+
+- 💼 Currently working as a Software Development Engineer at one of India’s leading technology-driven firms.
+- In my current role, I am solving large-scale, high-impact engineering challenges, improving system reliability, and driving innovations that serve millions of customers.
+- This opportunity has allowed me to work on some of the most complex problems in the industry while continuously growing as an engineer.
+- 🤖 Apart from work, I am building an **AI-driven project** to bring innovation into software solutions.  
 - 🌱 I’m improving my skills as a **Full Stack Developer**  
 - 🏗️ Learning **System Design** to grow as a **Technical Leader** in Software Engineering  
 - 💬 Ask me about **Full Stack Development, DSA, and Computer Science Fundamentals**  
